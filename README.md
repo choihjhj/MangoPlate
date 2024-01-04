@@ -36,6 +36,12 @@
 ![image](https://github.com/choihjhj/Mangoplate/assets/148078504/fd971745-69be-4394-a74f-628a117f49af)
 ![image](https://github.com/choihjhj/Mangoplate/assets/148078504/7175d6e3-12d7-4751-ac59-3d7e8b675b06)
 
+
+       
+## 개선 사항
+- Console 출력 형태가 아닌 springboot framework를 이용해 웹 서비스로 구현해 볼 것
+  
+   
  <!-- 
 <img width="500" alt="image" src="https://github.com/choihjhj/Mangoplate/assets/148078504/2c7c9906-6a48-4fa5-9c1f-bfcd1805b094">
 <img width="500" alt="image" src="https://github.com/choihjhj/Mangoplate/assets/148078504/47f8bb02-f471-45f9-a386-7672e16b51d7">
