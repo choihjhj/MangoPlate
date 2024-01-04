@@ -22,7 +22,21 @@
 <br>     
 <br>
 ## ✨기능 별 출력 결과     
-<img width="500" alt="image" src="https://github.com/choihjhj/Mangoplate/assets/148078504/11321870-897c-456f-b10a-854a0d95aba0">
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/11321870-897c-456f-b10a-854a0d95aba0)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/2c7c9906-6a48-4fa5-9c1f-bfcd1805b094)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/47f8bb02-f471-45f9-a386-7672e16b51d7)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/b0d8195d-f87d-4830-b848-653bbd2d774e)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/62dffc9b-626c-4a0c-9840-3578a81760a2)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/f21fca67-581a-46ca-bd95-18e5bdcfaa93)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/0492f7e0-29c4-4213-b972-fee78a152234)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/f373b5bf-0344-4366-8ed8-48877607d203)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/c57b2331-3e37-4a13-acf2-61eb8d765000)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/e9096bde-c2cd-4532-937e-a35b66a024d2)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/6ca2c2a1-0bd9-4e1e-bdd7-fb4a9e05d0b2)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/fd971745-69be-4394-a74f-628a117f49af)
+![image](https://github.com/choihjhj/Mangoplate/assets/148078504/7175d6e3-12d7-4751-ac59-3d7e8b675b06)
+
+ <!-- 
 <img width="500" alt="image" src="https://github.com/choihjhj/Mangoplate/assets/148078504/2c7c9906-6a48-4fa5-9c1f-bfcd1805b094">
 <img width="500" alt="image" src="https://github.com/choihjhj/Mangoplate/assets/148078504/47f8bb02-f471-45f9-a386-7672e16b51d7">
 <img width="500" alt="image" src="https://github.com/choihjhj/Mangoplate/assets/148078504/b0d8195d-f87d-4830-b848-653bbd2d774e">
@@ -35,6 +49,8 @@
 <img width="500" alt="image" src="https://github.com/choihjhj/Mangoplate/assets/148078504/6ca2c2a1-0bd9-4e1e-bdd7-fb4a9e05d0b2">
 <img width="500" alt="image" src="https://github.com/choihjhj/Mangoplate/assets/148078504/fd971745-69be-4394-a74f-628a117f49af">
 <img width="500" alt="image" src="https://github.com/choihjhj/Mangoplate/assets/148078504/7175d6e3-12d7-4751-ac59-3d7e8b675b06">
+
+-->
 
 
 
